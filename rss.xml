@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NssNss.ma ]]></title>
         <description><![CDATA[NssNss.ma ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nssnss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 22:47:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 21:54:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nssnss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.mercialfred.com/uploads/mercialfred/articles/illu-56bb72db0ec32.jpeg">]]></description>
+            <link>https://thegrid.ai/nssnss/fd2ff523-da19-4bd6-acf7-3211686dfe12/index.html</link>
+            <guid isPermaLink="false">fd2ff523-da19-4bd6-acf7-3211686dfe12</guid>
+            <pubDate>Sun, 21 Feb 2016 21:54:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ceci est un article]]></title>
-            <description><![CDATA[<article><h1>Ceci est un article</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/850b6f1468299c1f408e7840ef61096dc4fb4757.jpg"></article>]]></description>
-            <link>undefinedceci-est-un-article/index.html</link>
+            <description><![CDATA[<article><h1>Ceci est un article</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73cdaeed6aaf400b1eef80d64f0ad90e68a89ac8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nssnss/ceci-est-un-article/index.html</link>
             <guid isPermaLink="false">e67931b3-0845-4d32-9c13-802c81adda38</guid>
             <pubDate>Sat, 20 Feb 2016 22:47:37 GMT</pubDate>
         </item>
